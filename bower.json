@@ -1,0 +1,26 @@
+{
+  "name": "ng-drag-n-drop",
+  "version": "0.1.0",
+  "homepage": "https://github.com/varunvs/ng-drag-n-drop",
+  "description": "An independent AngularJS module to handle drag n drop functionality. No jQuery dependency",
+  "main": "src/ng-drag-n-drop.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "angularjs",
+    "dragndrop"
+  ],
+  "authors": [
+    "Varun"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
